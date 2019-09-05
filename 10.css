@@ -5,6 +5,9 @@ html{
 	float:right;
 	padding-right:100px;
 }
+h2{
+	padding-left:100px;
+}
 body{
 	font-family:"Avenir Next";
 	background-color:white;
