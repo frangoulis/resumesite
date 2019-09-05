@@ -48,7 +48,7 @@ h2{
 .ultop{
 	border:6px solid white;
 }
-h1{
+h5{
 	border-bottom:2px solid blue;
 	margin:1px;
 	padding-left:10px;
@@ -81,6 +81,7 @@ h1{
 }
 .MID1 h2{
 	font-size:15px;
+	border-bottom:2px solid #BBFFEE;
 }
 .MID1 span{
 	color:#ff4a4a
