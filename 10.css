@@ -1,0 +1,117 @@
+html{
+	size:50%;
+}
+.gmailpic{
+	float:right;
+	padding-right:100px;
+}
+body{
+	font-family:"Avenir Next";
+	background-color:white;
+}
+p{
+	font-size:12px;
+}
+.demo3 {  
+     float:left;  
+	 list-style:none;
+     -webkit-transition: all 0.3s ease-in-out 0s;  
+     -moz-transition: all 0.3s ease-in-out 0s;  
+     -o-transition: all 0.3s ease-in-out 0s;  
+     -ms-transition: all 0.3s ease-in-out 0s;  
+     transition: all 0.3s ease-in-out 0s;  
+     height:0;  
+     font-family: serif;
+     font-size:18px;  
+     padding:10px 15px; 
+ }  
+    
+ .demo3 :hover {  
+     background-color: pink;  
+     -webkit-transition: all 0.3s ease-in-out 0s;  
+     -moz-transition: all 0.3s ease-in-out 0s;  
+     -o-transition: all 0.3s ease-in-out 0s;  
+     -ms-transition: all 0.3s ease-in-out 0s;  
+     transition: all 0.3s ease-in-out 0s;  
+     height:40px;  
+ } 
+.topmenu1{
+	font-size: 18px;
+	float:left;
+	padding:10px 15px;
+	list-style:none;
+	font-family: serif;
+}
+.ultop{
+	border:6px solid white;
+}
+h1{
+	border-bottom:2px solid blue;
+	margin:1px;
+	padding-left:10px;
+}
+.TOP{
+	background-color:white;
+	color:Blue;
+	height:35px;
+	border-bottom:5px solid black;
+}
+.TOP-logo{
+	float:left;
+	list-style:none;
+	font-size:18px;
+	padding:10px 20px;
+	color:white;
+}
+.MID-logo{
+	float:left;
+	font-size:18px;
+	padding:10px 20px;
+	border-bottom:2px solid yellow;
+}
+.MID{
+	padding:10px 80px;
+	background-color: white;
+}
+.MID1 h1{
+	font-size:20px;
+}
+.MID1 h2{
+	font-size:15px;
+}
+.MID1 span{
+	color:#ff4a4a
+}
+.BOT{
+	background-color: #2f5167;
+	color: #fff;
+	height: 250px;
+	padding: 10px;
+}
+.BOT-logo{
+	float:left;
+	font-size:16px;
+}
+.BOT-list{
+	float:right;
+}
+.BOT ul{
+	padding-bottom: 5px;
+	list-style:none;
+　	height:200px;
+　	width:200px;
+	
+}
+.pic1{
+	height:180px;
+	width:135px;
+}
+.company{
+	font-size:20px;
+}
+.handsome{
+	margin-top:2px;
+}
+.mailtome{
+	float:left;
+}
